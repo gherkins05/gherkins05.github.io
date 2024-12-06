@@ -1,1 +1,1 @@
-# <span style="color: #00ff00;">[View the website](http://gherkins05.com)</span>
+# <a href="http://gherkins05.com" style="color: #00ff00;">View the website</a>
